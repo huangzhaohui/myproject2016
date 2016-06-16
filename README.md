@@ -1,3 +1,4 @@
-# myproject2016
-Try to use Symfony for a testing project
-测试
+myproject2016-init
+==================
+
+A Symfony project created on June 16, 2016, 12:59 pm.
